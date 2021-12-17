@@ -2,13 +2,18 @@
 
 
 ### 💻 ꜱᴜᴍᴍᴀʀʏ
-
 Self-taught developer with a great passion for programming
-and with a large collection of software projects. <br>
-I have done projects related to: machine learning, GUI creation, image processing,
+and with large collection of projects derived from personal projects, freelancing, university and internship.
+
+Fast learner, creative and challenge seek
+
+I've done projects related to: machine learning, GUI creation, image processing,
 data preprocessing, algorithm building, software design, email
 processing, ETL (big data experience with 500GB + database),
-automation of the software and activity planning. C
+automation of the software and activity planning with Python, R, SQL and JS.
+
+I am looking for a company that sees the potential
+in me, as I am interdisciplinary and I learn quickly.
 
 <br>
 
