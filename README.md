@@ -18,15 +18,15 @@ in me, as I am interdisciplinary and I learn quickly.
 <br>
 
 ### 🔧 ꜱᴏꜰᴛᴡᴀʀᴇ ᴛᴏᴏʟꜱ
-👉🏻 Data Science & Machine Learning: <br>
+- Data Science & Machine Learning: <br>
 Numpy, Pandas, Scipy, matplotlib, statsmodel, SQLAlchemy <br>
 TensorFlow, Keras, Sklearn, seaborn, bokeh,Sympy <br>
-👉🏻 GUI: Tkinter, pysimplegui <br>
-👉🏻 Computer Vision: Pillow, OpenCV <br>
-👉🏻 Web scraping: request, urlib, BeautifulSoup <br>
-👉🏻 DevOps tools: Docker, CircleCI, Colab, GitLab, virtualenv, venv, pytest, unitest. <br>
-👉🏻 Web development: experience with HTML, CSS and Flask. <br>
-👉🏻 Data Engineering: AWS, KNIME, SnakeMake, Apache Airflow, pandas, PySpark. <br>
-👉🏻 Data analysis, data exploration, data visualization descriptive and inferential statistics with Python or R. <br>
-👉🏻 R data science libraries: ggplot2, dplyr, tidyverse, stringr, readr. <br> 
+- GUI: Tkinter, pysimplegui <br>
+- Computer Vision: Pillow, OpenCV <br>
+- Web scraping: request, urlib, BeautifulSoup <br>
+- DevOps tools: Docker, CircleCI, Colab, GitLab, virtualenv, venv, pytest, unitest. <br>
+- Web development: experience with JS, ExpressJS, NodeJS, HTML, CSS and Flask. <br>
+- Data Engineering: AWS, KNIME, SnakeMake, Apache Airflow, pandas, PySpark. <br>
+- Data analysis, data exploration, data visualization descriptive and inferential statistics with Python or R. <br>
+- R data science libraries: ggplot2, dplyr, tidyverse, stringr, readr. <br> 
 <br>
