@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/erma0x/erma0x/giphy.gif)
+![](https://github.com/erma0x/erma0x/blob/main/giphy.gif)
 
 ### 💻 ꜱᴜᴍᴍᴀʀʏ
 Self-taught developer with a great passion for programming
