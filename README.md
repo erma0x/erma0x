@@ -6,3 +6,13 @@
 Self-taught developer with a great passion for programming
 and with large collection of projects derived from personal projects, freelancing, university and internship.
 Fast learner, creative and challenge seeker.
+
+
+<br>
+<br>
+
+
+### 📈 GitHub Activity Graph:
+[![erma0x's github activity graph](https://activity-graph.herokuapp.com/graph?username=erma0x&theme=react-dark)](https://github.com/erma0x/github-readme-activity-graph)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=erma0x"></img>
