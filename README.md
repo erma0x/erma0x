@@ -8,6 +8,9 @@ Fast learner, creative and challenge seeker.
 
 
 <br>
+
+![](https://github.com/erma0x/erma0x/blob/main/cat.gif)
+
 <br>
 
 
@@ -15,3 +18,4 @@ Fast learner, creative and challenge seeker.
 [![erma0x's github activity graph](https://activity-graph.herokuapp.com/graph?username=erma0x&theme=react-dark)](https://github.com/erma0x/github-readme-activity-graph)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=erma0x"></img>
+
