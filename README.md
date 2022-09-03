@@ -2,4 +2,4 @@
 
 [![Profile](https://Visitor-badge.glitch.me/badge?page_id=erma0x.profileviews-badge)](https://github.com/erma0x) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/erma0x) 
 
-![](https://github.com/erma0x/erma0x/blob/main/cat.gif?raw=True "Title")
+![](https://github.com/erma0x/erma0x/blob/main/cat2.gif?raw=True "Title")
