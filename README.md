@@ -1,31 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+software+archive;Python;Machine+Learning;Data+Science;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+software+archive;Python;Machine+Learning;Data+Science;Financial+Markets;Algorithms)](https://git.io/typing-svg)
 
 [![](https://Visitor-badge.glitch.me/badge?page_id=erma0x.profileviews-badge)](https://github.com/erma0x) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/erma0x) 
 
+### Hi there! 👋
 
-### Fast learner, creative and challenge seeker.
+- 🌱 I have BSc degree in Biotechnology at [UniTrento](https://https://www.unitn.it/)
+- 🤖 Experience in applied machine learning in textile industry (neural-nets) and financial markets (genetic-algos).
+- 🧮 Experience in Data Analysis for Bioinformatics and Digital Marketing.
 
-### 👨‍💻 𝗦𝘂𝗺𝗺𝗮𝗿𝘆
+# Fast learner, creative and challenge seeker
 
-Self-taught developer with a great passion for programming
-and with large collection of projects derived from personal projects, freelancing, university and internship. 
+<p align="center"> 
+<a href="https://www.linkedin.com/in/maximilian-pavlov-074124160/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    
+</p>
 
-I've done projects related to: machine learning, GUI creation, image processing,
-Data preprocessing, algorithm building, software design, email processing
-ETL (big data experience with 500GB + database).
-Data analysis, data exploration, data visualization descriptive and inferential statistics. 
-Automation of the software and activity planning with Python, R, SQL and JS. 
-
-I am looking for a company that sees the potential 
-in me, as I am very interdisciplinary and I learn quickly.
-
-### ✨ 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
-- Github : github.com/erma0x
-- Blog : erma0x.medium.com/
-- my Fintech App: share.streamlit.io/erma0x/streamlit-trading-app/main/app.py
-
- 
-### ⚙️ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝘁𝗼𝗼𝗹𝘀
+ ### ⚙️ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝘁𝗼𝗼𝗹𝘀
 - UI : Tkinter, Pysimplegui, Streamlit, JavaScript, VueJS
 - Web development: experience with HTML, CSS, JS, VueJS, ExpressJS and Flask (python).
 - DevOps tools: Docker, CircleCI, Colab, GitLab, virtualenv, venv, pytest, unitest.
@@ -49,6 +39,8 @@ Department of Cellular, Computational and Integrated Biology University of Trent
 Thesis: "Machine learning methods applied to Computational Biology and Biomedicine"
 IT experiences with: R, Python and SQL: SQLite, MySQL, MariaDB and NoSQL: MongoDB, Redis.
 
-### others accounts:
-- https://rosalind.info/users/ermano.buikis/
-- https://www.kaggle.com/jdeiepoi
+### ✨ Others
+- [Software Engineering Blog](https://www.erma0x.medium.com/)  
+- [Fintech App](https://share.streamlit.io/erma0x/streamlit-trading-app/main/app.py)
+- [Bioinformatics](https://rosalind.info/users/ermano.buikis/)
+- [Data Science](https://www.kaggle.com/jdeiepoi)
