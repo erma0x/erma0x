@@ -11,8 +11,6 @@
 # Fast learner, creative and challenge seeker
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/maximilian-pavlov-074124160/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    
 </p>
 
  ### ⚙️ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝘁𝗼𝗼𝗹𝘀
