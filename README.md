@@ -4,7 +4,7 @@
 
 ### Hi there! 👋
 
-- 🌱 I have BSc degree in Biotechnology at [UniTrento](https://https://www.unitn.it/)
+- 🌱 I have BSc degree in Biotechnology
 - 🤖 Experience in applied machine learning in Textile Industry with neural-neworks for quality control and creation of a trading model with genetic algorithms in the Forex Financial Markets .
 - 🧮 Experience in Data Analysis for Bioinformatics for SNPs-cancer related pattern prediction and Digital Marketing with machine learning for customer clusterization for a better marketing targeting.
 
