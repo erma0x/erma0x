@@ -2,9 +2,10 @@
 
 [![](https://Visitor-badge.glitch.me/badge?page_id=erma0x.profileviews-badge)](https://github.com/erma0x) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/erma0x) 
 
-### Hi there! 👋
+### Hello there! 👋
 
-- 🌱 I have BSc degree in Biotechnology
+
+- 🌱 BSc degree in Biotechnology
 - 🤖 Experience in applied machine learning in Textile Industry with neural-neworks for quality control and creation of a trading model with genetic algorithms in the Forex Financial Markets.
 - 🧮 Experience in Data Analysis for Bioinformatics for SNPs-cancer related pattern prediction and Digital Marketing with machine learning for customer clusterization for a better marketing targeting.
 
