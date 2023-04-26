@@ -5,10 +5,8 @@
 ### Hi there! 👋
 
 - 🌱 I have BSc degree in Biotechnology
-- 🤖 Experience in applied machine learning in Textile Industry with neural-neworks for quality control and creation of a trading model with genetic algorithms in the Forex Financial Markets .
+- 🤖 Experience in applied machine learning in Textile Industry with neural-neworks for quality control and creation of a trading model with genetic algorithms in the Forex Financial Markets.
 - 🧮 Experience in Data Analysis for Bioinformatics for SNPs-cancer related pattern prediction and Digital Marketing with machine learning for customer clusterization for a better marketing targeting.
-
-# Fast learner, creative and challenge seeker
 
 <p align="center"> 
 </p>
@@ -29,7 +27,6 @@
 CIBIO: Department of Cellular, Computational and Integrated Biology - University of Trento 
 Data Analysis of SNPs for prostate cancer genetic associations through the
 languages of R, Python and SQL. MariaDB, SQL, Tensorflow2.0 in Python3.
-
 
 ### 🦠 𝗕𝗮𝗰𝗵𝗲𝗹𝗼𝗿 𝗶𝗻 𝗕𝗶𝗼𝗺𝗼𝗹𝗲𝗰𝘂𝗹𝗮𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆
 Study of molecular biology, genetics, mathematics, informatics, physics and statistics.
