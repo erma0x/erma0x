@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+software+archive;Python;Machine+Learning;Data+Science;Financial+Markets;Algorithms)](https://git.io/typing-svg)
 
+<img src="./matrix.gif" width="1600" />
 
 <p align="center"> 
 </p>
