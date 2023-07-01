@@ -1,6 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+software+archive;Python;Machine+Learning;Data+Science;Financial+Markets;Algorithms)](https://git.io/typing-svg)
+<img src="./matrix3.gif" width="1600" />
 
-<img src="./matrix.gif" width="1600" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=30F700&center=true&vCenter=true&width=1000&lines=Welcome+to+my+software+archive;Python+developer;Software+engineering;Machine+Learning;Data+Science;Financial+Markets;Algorithms+&+Data+Structures)](https://git.io/typing-svg)
+
 
 <p align="center"> 
 </p>
