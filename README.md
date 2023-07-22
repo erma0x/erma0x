@@ -7,6 +7,7 @@
 <p align="center"> 
 </p>
 On my GitHub, you'll find a diverse collection of projects, code snippets, and experiments that reflect my passion for AI, Python, R, data science, algorithmic trading, and distributed systems.
+</p>
 
 Throughout my journey, Python and R have been my trusted allies. The versatility, simplicity, and extensive libraries of both languages have empowered me to develop powerful data analysis pipelines, build predictive models, and create insightful visualizations. Whether it's extracting insights from complex datasets or developing robust machine learning models, I find immense joy in harnessing the potential of these languages.
 
